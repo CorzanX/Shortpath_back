@@ -1,0 +1,38 @@
+undirected
+vertex A
+vertex B
+vertex C
+vertex D
+vertex E
+vertex F
+vertex G
+vertex H
+vertex I
+vertex J
+edge A B 5
+edge B C 3
+edge C D 4
+edge D E 6
+edge A D 7
+edge D A 5
+edge A G 5
+edge A F 7
+edge A H 5
+edge A J 5
+edge A I 5
+edge D B 5
+edge F G 5
+edge G H 8
+edge E H 9
+edge I J 12
+edge H J 5
+edge H D 6
+edge F B 7
+edge D F 9
+edge D I 5
+edge E I 1
+edge E J 3
+edge C J 2
+edge C F 9
+edge B J 5
+edge B I 5
